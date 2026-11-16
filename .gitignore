@@ -1,0 +1,13 @@
+.DS_Store
+# mac
+mac/.build/
+mac/build/
+mac/.swiftpm/
+# android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/app/build/
+*.iml
+.idea/
